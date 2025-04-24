@@ -614,3 +614,5 @@ Przejdź do zakładki Actions. Zobaczysz tam wykres przedstawiający postęp wor
 Po zakończeniu workflow, przejdź do swojego repozytorium na Docker Hub.
 
 Jeśli widzisz nowe repozytorium na tej liście, oznacza to, że GitHub Actions pomyślnie przesłał obraz na Docker Hub.# DockerTest
+
+----------------------------------
